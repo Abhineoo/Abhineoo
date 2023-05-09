@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A facinated developer who has to explore the world of code!</h3>
-<img align="right" width=400 alt="coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" width=400 alt="coding" src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineoo&label=Profile%20views&color=0e75b6&style=flat" alt="abhineoo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhinavv_s" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavv_s?logo=twitter&style=for-the-badge" alt="s_abhinavv" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
-
+- 🌱 A high school student currently learning to print __"Hello World"__
+ 
 - 👯 I’m looking to collaborate on **Projects**
 
 - 💬 Ask me about **C, Python**
