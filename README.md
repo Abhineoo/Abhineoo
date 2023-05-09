@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A facinated developer who has to explore the world of code!</h3>
-<img align="right" width=400 alt="coding" src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910">
+<img align="right" width=400 alt="coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineoo&label=Profile%20views&color=0e75b6&style=flat" alt="abhineoo" /> </p>
 
