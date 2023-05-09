@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-*Can reach me on DISCORD* ```ΣABHIneo#4498``` <img align="centre" width=70 alt="discord" src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png">
+*Can reach me on DISCORD* <img align="centre" width=100 alt="discord" src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png"> ```ΣABHIneo#4498```
 
 
 
