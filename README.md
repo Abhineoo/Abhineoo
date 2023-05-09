@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A facinated developer who has to explore the world of code!</h3>
-<img align="right" width=400 alt="coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" width=300 alt="coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 
 - 🌱 A high school student currently learning to print __"Hello World"__
