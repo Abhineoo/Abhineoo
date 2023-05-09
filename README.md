@@ -9,11 +9,9 @@
 
 - 💬 Ask me about **C, Python**
 
-- 📫 Can reach me on Discord **ΣABHIneo#4498**
-
 <h3 align="left">Connect with me:</h3>
 
-*Can reach me on DISCORD* ```ΣABHIneo#4498```
+*Can reach me on DISCORD* ```ΣABHIneo#4498``` <img align="left" width=40 alt="discord" src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png">
 
 
 
