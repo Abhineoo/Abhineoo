@@ -2,9 +2,6 @@
 <h3 align="center">A facinated developer who has to explore the world of code!</h3>
 <img align="right" width=400 alt="coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineoo&label=Profile%20views&color=0e75b6&style=flat" alt="abhineoo" /> </p>
-
-<p align="left"> <a href="https://twitter.com/abhinavv_s" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavv_s?logo=twitter&style=for-the-badge" alt="s_abhinavv" /></a> </p>
 
 - 🌱 A high school student currently learning to print __"Hello World"__
  
