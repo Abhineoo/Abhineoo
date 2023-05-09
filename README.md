@@ -12,7 +12,8 @@
 - 📫 Can reach me on Discord **ΣABHIneo#4498**
 
 <h3 align="left">Connect with me:</h3>
-Can reach me on DISCORD ```ΣABHIneo#4498```
+
+*Can reach me on DISCORD ```ΣABHIneo#4498```
 
 
 
